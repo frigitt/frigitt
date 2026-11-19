@@ -8,7 +8,7 @@
 
 *One song. Twelve possibilities. Absolutely no quality control from the genre police.*
 
-[![Frigitt on the turntable](now-playing.svg)](https://frigitt.no)
+[![Frigitt on the turntable](now-playing.svg)](https://frigitt.no/laater/)
 
 🎧 [Listen to Frigitt on YouTube Music](https://music.youtube.com/search?q=Frigitt)
 
