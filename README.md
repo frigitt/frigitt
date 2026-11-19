@@ -10,6 +10,8 @@
 
 [![Frigitt on the turntable](now-playing.svg)](https://frigitt.no)
 
+🎧 [Listen to Frigitt on YouTube Music](https://music.youtube.com/search?q=Frigitt)
+
 **Independent by nature. Unreasonable by choice.**
 
 Welcome to a little corner of Frigitt, where creativity runs loose.  
