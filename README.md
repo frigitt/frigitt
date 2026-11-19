@@ -4,6 +4,14 @@
 
 **Music. Protest. Poetry. Beautiful noise. Questionable decisions.**
 
+### 🎵 ON THE TURNTABLE
+
+*One song. Twelve possibilities. Absolutely no quality control from the genre police.*
+
+[![Frigitt on the turntable](now-playing.svg)](https://frigitt.no)
+
+**Independent by nature. Unreasonable by choice.**
+
 Welcome to a little corner of Frigitt, where creativity runs loose.  
 Genres are suggestions, and nobody gets to decide what music is supposed to sound like.
 
