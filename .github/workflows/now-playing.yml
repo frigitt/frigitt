@@ -1,0 +1,36 @@
+
+name: "Frigitt on the turntable"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * 1"
+permissions:
+  contents: write
+jobs:
+  spin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: rakshithp7/ytmusic-display-widget@v1
+        with:
+          tracks: |
+            https://music.youtube.com/watch?v=_NIuOZ-bbzY
+            https://www.youtube.com/watch?v=A_VL-mYYb8A
+            https://music.youtube.com/watch?v=fv8vJGCuwsM
+            https://www.youtube.com/watch?v=mPArwbG38ws
+            https://music.youtube.com/watch?v=NrHmAE8Hjv0
+            https://www.youtube.com/watch?v=3eI2JYi-alE
+            https://music.youtube.com/watch?v=eANdC5XBFSg
+            https://www.youtube.com/watch?v=H2GarxeP88Q
+            https://music.youtube.com/watch?v=Do9EJPmqsAA
+            https://www.youtube.com/watch?v=FzTvGSKCJ_8
+            https://music.youtube.com/watch?v=ZTxtnC9gV20
+            https://www.youtube.com/watch?v=MIPPNxStdlQ
+          mode: random
+          art-style: vinyl
+          size: l
+          accent-color: "#F2EADF"
+          wave-color: "#f4bd69"
+          vinyl-speed: normal
+          background: blurred
+          label-size: large
